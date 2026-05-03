@@ -1,4 +1,4 @@
--- Import Data into Books Table
+-- Import Data
 
 Copy Books(Book_ID, Title, Author, Genre, Published_Year, Price, Stock)
 FROM 'D:\Online_Bookstore\Books.csv'
